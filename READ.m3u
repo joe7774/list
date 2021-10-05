@@ -1,0 +1,68 @@
+#EXTINF:-1,|PERU| 24 HORAS
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
+#EXTINF:-1,|PERU| LA 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1,|PERU| GOLTV
+http://www.cinepixetel.net:8096/emby/videos/43651/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=c8c2bee3bf209a3deadab4d822ae8c6a&PlaySessionId=8c54c387f3a44a89874fa98ec90b13aa&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_c8c2bee3bf209a3deadab4d822ae8c6a&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=2577253&AudioBitrate=47747&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| ESPN 1
+http://www.cinepixetel.net:8096/emby/videos/43640/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=447455a38f5b262fae9718e8c26cd706&PlaySessionId=45b7ffbe0e6649c1bb1dc424e6ac546e&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_447455a38f5b262fae9718e8c26cd706&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=5517263&AudioBitrate=47737&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| DIRECTV
+http://www.cinepixetel.net:8096/emby/videos/43698/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=e859b0f76fbf5ffe692b33cff2f82195&PlaySessionId=940cf887183046529b801ef96aed5674&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_e859b0f76fbf5ffe692b33cff2f82195&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=1195988&AudioBitrate=64012&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| HBO
+http://www.cinepixetel.net:8096/emby/videos/43671/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=3bb4edcf1db38a98766709bc53fba3b6&PlaySessionId=d82f34eb12264200b380d373eb20597d&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_3bb4edcf1db38a98766709bc53fba3b6&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=1163985&AudioBitrate=96015&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| HBO 2
+http://www.cinepixetel.net:8096/emby/videos/43672/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=7a7228fc8abd6a5140f1181db3de6622&PlaySessionId=e0d988d443ca497f847c63796d097269&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_7a7228fc8abd6a5140f1181db3de6622&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=358918&AudioBitrate=96082&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| DIRECTV 2
+http://www.cinepixetel.net:8096/emby/videos/43699/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=0b03c687e0bfdc976c76e504f282fe9b&PlaySessionId=92d6d782eb8d422d8f88d8a219cbaca7&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_0b03c687e0bfdc976c76e504f282fe9b&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=391052&AudioBitrate=63948&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| TIGO SPORT
+http://www.cinepixetel.net:8096/emby/videos/43737/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=e1dc85c67225599e0fc553e08a7b8484&PlaySessionId=3f0e08932c9e452296a8e3010d1dabcb&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_e1dc85c67225599e0fc553e08a7b8484&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=327000&AudioBitrate=128000&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| CANAL DEL FUTBOL
+http://www.cinepixetel.net:8096/emby/videos/43727/live.m3u8?DeviceId=683611bc-81d7-4a20-b662-2530649f11a6&MediaSourceId=8b69fd7bde68b5418d68ae3b489cd99e&PlaySessionId=f6d0d880bdec4bcd8b7404f387b1da33&api_key=b6016daed31d48df862bc0ce0cb2a6f7&LiveStreamId=06044cf0e6f93cdae5f285c9ecfaaeb4_01413a525b3a9622ce6fdf19f7dde354_8b69fd7bde68b5418d68ae3b489cd99e&VideoCodec=h264&AudioCodec=mp3,aac&VideoBitrate=327000&AudioBitrate=128000&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=52&TranscodeReasons=ContainerBitrateExceedsLimit
+#EXTINF:-1,|PERU| ARENA 1 SPORT
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/178.ts
+#EXTINF:-1,|PERU| ARENA 2 SPORT
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/177.ts
+#EXTINF:-1,|PERU| ARENA 3 SPORT
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/179.ts
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15471
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/63.ts
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/62.ts
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/61.ts
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/60.ts
+https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
+http://62.112.9.63:88/canal+_sport/index.m3u8?token=test
+https://95-213-224-186.livesports24.online/ntvmatchfoot1.m3u8
+https://95-213-224-186.livesports24.online/rumatchf3.m3u8
+https://95-213-224-186.livesports24.online/mnashsport.m3u8
+https://185-107-80-245.livesports24.online/rumatcharena.m3u8
+https://185-107-80-245.livesports24.online/sport1ua.m3u8
+https://185-107-80-245.livesports24.online/mpremierrus.m3u8
+https://185-107-80-245.livesports24.online/mfootball2rus.m3u8
+https://77-247-178-24.livesports24.online/mfootball2rus.m3u8
+https://185-107-80-245.livesports24.online/rumatchf3.m3u8
+https://77-247-178-24.livesports24.online/footballrus.m3u8
+https://185-107-80-245.livesports24.online/khlhdru.m3u8
+http://persik.tv/stream/3602/287583/10249.m3u8
+https://185-107-80-245.livesports24.online/setantaukraine.m3u8
+https://185-107-80-245.livesports24.online/matchboetsru.m3u8
+https://95-213-224-186.livesports24.online/ooomatch.m3u8
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+http://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+https://95-213-224-175.livesports24.online/belarusss5.m3u8
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
